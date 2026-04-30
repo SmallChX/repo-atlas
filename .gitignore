@@ -3,3 +3,7 @@ openspec/
 .atlas/
 .github/
 *.spec
+
+# Allow example atlases to be checked in
+!examples/**/.atlas/
+!examples/**/.atlas/**
