@@ -1,0 +1,5 @@
+docs/
+openspec/
+.atlas/
+.github/
+*.spec

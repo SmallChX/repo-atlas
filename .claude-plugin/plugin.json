@@ -1,0 +1,18 @@
+{
+  "name": "repo-atlas",
+  "description": "Generate, maintain, and query a navigable, AI-friendly knowledge graph (a Repo Atlas) of your codebase. Includes seven coordinated skills: survey, identify-domains, generate-tree, bootstrap-workspace, refresh, validate, and query.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Thuan Tran"
+  },
+  "homepage": "https://github.com/SmallChX/repo-atlas",
+  "repository": "https://github.com/SmallChX/repo-atlas",
+  "license": "MIT",
+  "keywords": [
+    "atlas",
+    "knowledge-graph",
+    "documentation",
+    "codebase-map",
+    "skills"
+  ]
+}
